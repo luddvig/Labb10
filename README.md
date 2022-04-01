@@ -2,9 +2,9 @@
 Labb10
 
 Huvudfil: Labb10First.py.
-          Importerar klassen LinkedQ från filen LinkedQFile.
-          Importerar filen molgrafik.py.
-          Importerar filen HashStuff.py. 
+          /nImporterar klassen LinkedQ från filen LinkedQFile.
+          /nImporterar filen molgrafik.py.
+          /nImporterar filen HashStuff.py. 
 
 
 LinkedQ: Länkad kö.
